@@ -130,6 +130,7 @@ button{
         display: grid;
         flex-shrink: 0;
         grid-template-columns: 1fr 1fr;
+        margin-top: auto;
         max-width: 600px;
     }
     
