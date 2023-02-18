@@ -124,7 +124,6 @@ button{
     .container{
         align-items: center;
         display: grid;
-        flex-direction: column;
         justify-content: center;
     }
     .product__card{
