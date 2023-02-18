@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./screenshots/Product-card-mobile.png" height=325px alt="Mobile view">
-<img src="./screenshots/Product-card-desktop.png" height=325px alt="Desktop view">
+<img src="./screenshots/Product-card-mobile.png" height=375px alt="Mobile view"> <img src="./screenshots/Product-card-desktop.png" height=375px alt="Desktop view">
 
 ### Links
 
